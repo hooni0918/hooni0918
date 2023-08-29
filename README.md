@@ -28,5 +28,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/CocoaPods-EE3322?&style=flat-square&logo=CocoaPods&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Postman-FF6C37?&style=flat-square&logo=Postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-ef8c7d?&style=flat-square&logo=Figma&logoColor=white"/>
-  
+<img src="https://img.shields.io/badge/jira-0052CC?&style=flat-square&logo=jira&logoColor=white"/>
+
 </div><br><br>
