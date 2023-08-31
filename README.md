@@ -20,10 +20,6 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhooni0918%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=swift.svg&icon_color=%23F39A0D&title=visited&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-  <!--START_SECTION:waka-->
-  
-  <!--END_SECTION:waka-->
-
 ## Stack & Tools
 <p>
 <img src="https://img.shields.io/badge/Swift-F05138?&style=flat-square&logo=Swift&logoColor=white"/>
