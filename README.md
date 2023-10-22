@@ -36,4 +36,13 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/notion-000000?&style=flat-square&logo=notion&logoColor=white"/>
 
 
+## 배포
+[JMTeng](https://apps.apple.com/kr/app/jmteng-%EC%9A%B0%EB%A6%AC%EB%A7%8C%EC%9D%98-%EB%A7%9B%EC%A7%91%EC%A7%80%EB%8F%84/id6446813914) 
+
+<img width="100" height="100" src= "https://github.com/hooni0918/hooni0918/assets/109647045/0b10a698-43db-4b9d-b83d-6ea986405ec4">
+
+
+
 </div><br><br>
+
+
