@@ -36,7 +36,7 @@
 
 
 ## 배포
-[JMTeng]([https://apps.apple.com/kr/app/jmteng-%EC%9A%B0%EB%A6%AC%EB%A7%8C%EC%9D%98-%EB%A7%9B%EC%A7%91%EC%A7%80%EB%8F%84/id6446813914](https://apps.apple.com/kr/app/jmteng-%EC%9A%B0%EB%A6%AC%EB%A7%8C%EC%9D%98-%EB%A7%9B%EC%A7%91%EB%A6%AC%EC%8A%A4%ED%8A%B8/id6478379579)) 
+[JMTeng](https://apps.apple.com/kr/app/jmteng-%EC%9A%B0%EB%A6%AC%EB%A7%8C%EC%9D%98-%EB%A7%9B%EC%A7%91%EB%A6%AC%EC%8A%A4%ED%8A%B8/id6478379579) 
 
 <img width="100" height="100" src= "https://github.com/hooni0918/hooni0918/assets/109647045/0b10a698-43db-4b9d-b83d-6ea986405ec4">
 
