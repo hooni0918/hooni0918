@@ -40,8 +40,7 @@
 
 <img width="100" height="100" src= "https://github.com/hooni0918/hooni0918/assets/109647045/0b10a698-43db-4b9d-b83d-6ea986405ec4">
 
-
-## **Experience**
+### **Experience**
 
 - GDSC Newyear Hackaton <br>
 **2023.01.13 ~ 2023.01.14 | GDSC 연합 해커톤**<br>
@@ -63,9 +62,7 @@ Groom에서 주최한 새싹톤  **🔥본선 진출🔥**<br>
 SwiftUI를 사용하여 제주도 방언을 지키기 위한 **“JEJU Proverb”** 제출
 🔗 [Github](https://github.com/hooni0918/WWDC2023-Scholaship)
 
----
-
-## Activity
+### Activity
 
 - **Now Sopt 34th iOS**<br>2024.03 - 현재
   
@@ -76,7 +73,4 @@ SwiftUI를 사용하여 제주도 방언을 지키기 위한 **“JEJU Proverb�
 2022-09 ~ 2024-03<br>
 2023-07 ~ 2024-03  |  **GDSC DJU Core** <br>
 2022-09 ~ 2024-03  |  **GDSC DJU iOS Position**
-
-</div><br><br>
-
-
+</div>
