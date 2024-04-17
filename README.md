@@ -41,6 +41,41 @@
 <img width="100" height="100" src= "https://github.com/hooni0918/hooni0918/assets/109647045/0b10a698-43db-4b9d-b83d-6ea986405ec4">
 
 
+## **Experience**
+
+- GDSC Newyear Hackaton <br>
+**2023.01.13 ~ 2023.01.14 | GDSC 연합 해커톤**<br>
+목표를 달성하기 위해 동기부여, 공동 목표를 달성하기 위한 서비스
+🔗 [Github](https://github.com/GDSC-Hackathon-TeamB)
+
+<br>
+
+- **새싹톤** <br>
+**2023.05 ~2023.06 | 서울시 x groom x 서울경제진흥원**<br>
+Groom에서 주최한 새싹톤  **🔥본선 진출🔥**<br>
+청소년 우울증 조기 발견과 해결을 위한 서비스
+🔗 [Github](https://github.com/hooni0918/Sesacthon_DoitDoitChu/tree/main)
+
+<br>
+
+- **Swift Student Challenge 2023** <br>
+2023.03 ~ 2023.04 | Apple<br>
+SwiftUI를 사용하여 제주도 방언을 지키기 위한 **“JEJU Proverb”** 제출
+🔗 [Github](https://github.com/hooni0918/WWDC2023-Scholaship)
+
+---
+
+## Activity
+
+- **Now Sopt 34th iOS**<br>2024.03 - 현재
+  
+- **학부 연구실 Program Language 소속 활동**<br>
+  2023.04 - 현재
+  
+- **GDSC DJU**<br>
+2022-09 ~ 2024-03<br>
+2023-07 ~ 2024-03  |  **GDSC DJU Core** <br>
+2022-09 ~ 2024-03  |  **GDSC DJU iOS Position**
 
 </div><br><br>
 
