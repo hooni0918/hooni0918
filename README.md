@@ -43,7 +43,7 @@
 ### **Experience**
 
 - Sopkaton <br>
-**2024.05.18 ~ 2024.05.19 | Now Sopt 연합 해커톤**<br>**🔥 대상 🔥**
+**2024.05.18 ~ 2024.05.19 | Now Sopt 연합 해커톤** **🔥 대상 🔥**<br>
 나의 TO-DO와 NOT-TO-DO를 한 번에 관리하는 나만의 균형 있는 TODO 앱 ‘Sees0’입니다. 
 🔗 [Github](https://github.com/34th-SOPKATHON-iOS-TEAM1/iOS)
 
