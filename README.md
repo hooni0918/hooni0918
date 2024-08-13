@@ -36,19 +36,14 @@
 
 ## 프로젝트
 
-|          | JMTeng | 프로젝트 A | 프로젝트 B |
+|          | JMTeng | 꾸물꿈 | DogTable |
 |----------|--------|------------|------------|
 | **앱 아이콘** | <img width="100" src="https://github.com/hooni0918/hooni0918/assets/109647045/0b10a698-43db-4b9d-b83d-6ea986405ec4" alt="JMTeng"> | <img width="100" src="https://github.com/user-attachments/assets/31e6b08a-ad9c-4cda-b0ad-272bb5d1bd96" alt="프로젝트 A"> | <img width="100" src="https://github.com/user-attachments/assets/0c624c1f-ff00-4ede-88e6-91b6c8a40533" alt="프로젝트 B"> |
 | **기술 스택** | Swift(storyBoard) | Swift(CodeBase) | SwiftUI |
 | **GitHub** | [링크](https://github.com) | [링크](https://github.com) | [링크](https://github.com) |
 | **앱스토어** | [링크](https://apps.apple.com/kr/app/jmteng-%EC%9A%B0%EB%A6%AC%EB%A7%8C%EC%9D%98-%EB%A7%9B%EC%A7%91%EB%A6%AC%EC%8A%A4%ED%8A%B8/id6478379579) | - | - |
 | **상태** | 배포 완료 | 8월중 배포예정 | 9월중 배포예정 |
-## 배포
-[JMTeng](https://apps.apple.com/kr/app/jmteng-%EC%9A%B0%EB%A6%AC%EB%A7%8C%EC%9D%98-%EB%A7%9B%EC%A7%91%EB%A6%AC%EC%8A%A4%ED%8A%B8/id6478379579) 
 
-<img width="100" height="100" src= "https://github.com/hooni0918/hooni0918/assets/109647045/0b10a698-43db-4b9d-b83d-6ea986405ec4">
-
-### **Experience**
 
 | 활동명                        | 기간                        | GitHub 링크 | 비고                     |
 | ---------------------------- | ------------------------- | ---------------------------- | ---------------------------- |
