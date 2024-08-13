@@ -44,7 +44,7 @@
 
 | 활동명                        | 기간                        | GitHub 링크 | 비고                     |
 | ---------------------------- | ------------------------- | ---------------------------- | ---------------------------- |
-| **AppJam**                   | 2024.06.20 ~              | [Github](https://github.com/OMZigak/KKUYOS) | **🔥 최우수상 🔥** |
+| **꾸물꿈(Now Sopt AppJam)**                   | 2024.06.20 ~              | [Github](https://github.com/OMZigak/KKUYOS) | **🔥 최우수상 🔥** |
 | **Sopkaton**                 | 2024.05.18 ~ 2024.05.19    | [Github](https://github.com/34th-SOPKATHON-iOS-TEAM1/iOS) | **🔥 대상 🔥** |
 | **GDSC Newyear Hackaton**    | 2023.01.13 ~ 2023.01.14    | [Github](https://github.com/GDSC-Hackathon-TeamB) | - |
 | **새싹톤**                    | 2023.05 ~ 2023.06          | [Github](https://github.com/hooni0918/Sesacthon_DoitDoitChu/tree/main) | **🔥 본선 진출 🔥** |
