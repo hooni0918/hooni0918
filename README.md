@@ -36,7 +36,7 @@
 
 ## 프로젝트
 
-|          | JMTeng | 꾸물꿈 | DogTable |
+|          | JMTeng | 꾸물꿈 | DogTable |
 |----------|--------|------------|------------|
 | **앱 아이콘** | <img width="100" src="https://github.com/hooni0918/hooni0918/assets/109647045/0b10a698-43db-4b9d-b83d-6ea986405ec4" alt="JMTeng"> | <img width="100" src="https://github.com/user-attachments/assets/31e6b08a-ad9c-4cda-b0ad-272bb5d1bd96" alt="프로젝트 A"> | <img width="100" src="https://github.com/user-attachments/assets/0c624c1f-ff00-4ede-88e6-91b6c8a40533" alt="프로젝트 B"> |
 | **기술 스택** | Swift(storyBoard) | Swift(CodeBase) | SwiftUI |
