@@ -42,40 +42,20 @@
 
 ### **Experience**
 
-- Sopkaton <br>
-**2024.05.18 ~ 2024.05.19 | Now Sopt 연합 해커톤** **🔥 대상 🔥**<br>
-나의 TO-DO와 NOT-TO-DO를 한 번에 관리하는 나만의 균형 있는 TODO 앱 ‘Sees0’입니다. 
-🔗 [Github](https://github.com/34th-SOPKATHON-iOS-TEAM1/iOS)
+| 활동명                        | 기간                        | GitHub 링크 | 비고                     |
+| ---------------------------- | ------------------------- | ---------------------------- | ---------------------------- |
+| **Sopkaton**                 | 2024.05.18 ~ 2024.05.19    | [Github](https://github.com/34th-SOPKATHON-iOS-TEAM1/iOS) | **🔥 대상 🔥** |
+| **GDSC Newyear Hackaton**    | 2023.01.13 ~ 2023.01.14    | [Github](https://github.com/GDSC-Hackathon-TeamB) | - |
+| **새싹톤**                    | 2023.05 ~ 2023.06          | [Github](https://github.com/hooni0918/Sesacthon_DoitDoitChu/tree/main) | **🔥 본선 진출 🔥** |
+| **Swift Student Challenge 2023** | 2023.03 ~ 2023.04 | [Github](https://github.com/hooni0918/WWDC2023-Scholaship) | - |
 
-- GDSC Newyear Hackaton <br>
-**2023.01.13 ~ 2023.01.14 | GDSC 연합 해커톤**<br>
-목표를 달성하기 위해 동기부여, 공동 목표를 달성하기 위한 서비스
-🔗 [Github](https://github.com/GDSC-Hackathon-TeamB)
+### **Activity**
 
-<br>
+- **Now Sopt 34th iOS**  
+  _2024.03 - 현재_
 
-- **새싹톤** <br>
-**2023.05 ~2023.06 | 서울시 x groom x 서울경제진흥원**<br>
-Groom에서 주최한 새싹톤  **🔥본선 진출🔥**<br>
-청소년 우울증 조기 발견과 해결을 위한 서비스
-🔗 [Github](https://github.com/hooni0918/Sesacthon_DoitDoitChu/tree/main)
+- **학부 연구실 Program Language 소속 활동**  
+  _2023.04 - 현재_
 
-<br>
-
-- **Swift Student Challenge 2023** <br>
-2023.03 ~ 2023.04 | Apple<br>
-SwiftUI를 사용하여 제주도 방언을 지키기 위한 **“JEJU Proverb”** 제출
-🔗 [Github](https://github.com/hooni0918/WWDC2023-Scholaship)
-
-### Activity
-
-- **Now Sopt 34th iOS**<br>2024.03 - 현재
-  
-- **학부 연구실 Program Language 소속 활동**<br>
-  2023.04 - 현재
-  
-- **GDSC DJU**<br>
-2022-09 ~ 2024-03<br>
-2023-07 ~ 2024-03  |  **GDSC DJU Core** <br>
-2022-09 ~ 2024-03  |  **GDSC DJU iOS Position**
-</div>
+- **GDSC DJU**  
+  _2022.09 ~ 2024.03_
