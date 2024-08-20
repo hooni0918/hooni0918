@@ -53,7 +53,7 @@
 | **새싹톤**                    | 2023.05 ~ 2023.06          | [Github](https://github.com/hooni0918/Sesacthon_DoitDoitChu/tree/main) | **🔥 본선 진출 🔥** |
 | **Swift Student Challenge 2023** | 2023.03 ~ 2023.04 | [Github](https://github.com/hooni0918/WWDC2023-Scholaship) | - |
 
-### **Activity**
+## **Activity**
 
 - **Now Sopt 34th iOS**  
   _2024.03 - 현재_
