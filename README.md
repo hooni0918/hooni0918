@@ -63,3 +63,5 @@
 
 - **GDSC DJU**  
   _2022.09 ~ 2024.03_
+
+![](./profile-3d-contrib/profile-green-animate.svg)
