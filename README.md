@@ -10,7 +10,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->\
+-->
 
 <img width="1200" src="https://github.com/hooni0918/hooni0918/assets/109647045/24c2ae92-a64e-4a12-bfda-5bdd3457e4de">
 
@@ -47,8 +47,8 @@
 | **앱 아이콘** | <img width="100" src="https://github.com/hooni0918/hooni0918/assets/109647045/0b10a698-43db-4b9d-b83d-6ea986405ec4" alt="JMTeng"> | <img width="100" src="https://github.com/user-attachments/assets/0c624c1f-ff00-4ede-88e6-91b6c8a40533" alt="꾸물꿈"> | <img width="100" src="https://github.com/user-attachments/assets/ccc81de9-76b6-4c5d-824f-525e6322510f" alt="DogTable"> |
 | **기술 스택** | UIKit(StoryBoard) <br> MVVM + Coordinator <br> Tuist  | UIkit(CodeBase) <br> MVVM <br> RxSwift | SwiftUI <br> Combine <br> TCA (예정)|
 | **GitHub** | [링크](https://github.com/team-JMT/JMT-iOS-repack) | [링크](https://github.com/OMZigak/KKUYOS) | [링크](https://github.com/Graduate-PetsTable/repack-PT) |
-| **앱스토어** | [링크](https://apps.apple.com/kr/app/jmteng-%EC%9A%B0%EB%A6%AC%EB%A7%8C%EC%9D%98-%EB%A7%9B%EC%A7%91%EB%A6%AC%EC%8A%A4%ED%8A%B8/id6478379579) | - | - |
-| **상태** | 배포 완료 | 8월중 배포예정 | 9월중 배포예정 |
+| **앱스토어** | [링크](https://apps.apple.com/kr/app/jmteng-%EC%9A%B0%EB%A6%AC%EB%A7%8C%EC%9D%98-%EB%A7%9B%EC%A7%91%EB%A6%AC%EC%8A%A4%ED%8A%B8/id6478379579) | https://apps.apple.com/kr/app/%EA%BE%B8%EB%AC%BC%EA%BF%88/id6535647152 | - |
+| **상태** | 배포 완료 | 업데이트 진행중 | 9월중 배포예정 |
 
 
 ## Experience
