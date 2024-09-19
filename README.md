@@ -41,7 +41,7 @@
 <img src="https://img.shields.io/badge/slack-4A154B?&style=flat-square&logo=slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/notion-000000?&style=flat-square&logo=notion&logoColor=white"/>
 
-## 프로젝트
+## Project
 |          | JMTeng | 꾸물꿈 | 독 커 |
 |----------|--------|------------|------------|
 | **앱 아이콘** | <img width="100" src="https://github.com/hooni0918/hooni0918/assets/109647045/0b10a698-43db-4b9d-b83d-6ea986405ec4" alt="JMTeng"> | <img width="100" src="https://github.com/user-attachments/assets/0c624c1f-ff00-4ede-88e6-91b6c8a40533" alt="꾸물꿈"> | <img width="100" src="https://github.com/user-attachments/assets/ccc81de9-76b6-4c5d-824f-525e6322510f" alt="DogTable"> |
