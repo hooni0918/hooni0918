@@ -62,8 +62,11 @@
 
 ## **Activity**
 
+- **And Sopt 35th iOS**  
+  _2024.09 - 
+
 - **Now Sopt 34th iOS**  
-  _2024.03 - 현재_
+  _2024.03 - 07
 
 - **학부 연구실 Program Language 소속 활동**  
   _2023.04 - 현재_
