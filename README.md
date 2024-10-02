@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/SwiftUI-2C68B5?&style=flat-square&logo=Swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/Xcode-147EFB?&style=flat-square&logo=Xcode&logoColor=white"/>
 
-<!-- <p style="margin-right: 40;"> -->
+<!-- <p style="margin-right: 40;"> 
 <img src="https://img.shields.io/badge/Git-F05032?&style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-111111?&style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/CocoaPods-EE3322?&style=flat-square&logo=CocoaPods&logoColor=white"/> 
@@ -40,7 +40,7 @@
 <img src="https://img.shields.io/badge/jira-0052CC?&style=flat-square&logo=jira&logoColor=white"/>
 <img src="https://img.shields.io/badge/slack-4A154B?&style=flat-square&logo=slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/notion-000000?&style=flat-square&logo=notion&logoColor=white"/>
-
+-->
 ## Project
 |          | JMTeng | 꾸물꿈 | 독 커 |
 |----------|--------|------------|------------|
