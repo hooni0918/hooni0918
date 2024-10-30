@@ -19,9 +19,10 @@
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhooni0918%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=visited&edge_flat=false" alt="Hits"></a>
   <a href="https://wakatime.com/@2d44752f-7ff7-4324-b37f-91b5c35a1c70"><img src="https://wakatime.com/badge/user/2d44752f-7ff7-4324-b37f-91b5c35a1c70.svg" alt="wakatime"></a>
   <br><br>
+  <!--
   <img src="https://raw.githubusercontent.com/hooni0918/github-3d-contrib/main/profile-3d-contrib/profile-green.svg" width="59%" height="300">
   <a href="https://github.com/devxb/gitanimals">
-  
+  -->
   </a>
 </div>
 
