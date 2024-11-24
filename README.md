@@ -27,7 +27,6 @@
 </div>
 
 
-[![rankit-badge](https://badge.rankit.run/badge?name=hooni0918)](https://www.rankit.run)
 ## Stack & Tools
 <p>
 <img src="https://img.shields.io/badge/Swift-F05138?&style=flat-square&logo=Swift&logoColor=white"/>
