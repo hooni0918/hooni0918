@@ -16,7 +16,7 @@
 -->
 <div align="center">
   <a href="https://hits.sh/github.com/hooni0918/">
-    <img src="https://hits.sh/github.com/hooni0918.svg?label=Visits&color=007ec6&style=flat-square" alt="Hits">
+    <img src="https://hits.sh/github.com/hooni0918.svg?label=Hello&color=007ec6&style=flat-square" alt="Hits">
   </a>
   <a href="https://wakatime.com/@2d44752f-7ff7-4324-b37f-91b5c35a1c70">
     <img src="https://wakatime.com/badge/user/2d44752f-7ff7-4324-b37f-91b5c35a1c70.svg" alt="wakatime">
