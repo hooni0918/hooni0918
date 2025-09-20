@@ -46,7 +46,7 @@
 | <img src="https://github.com/hooni0918/hooni0918/assets/109647045/0b10a698-43db-4b9d-b83d-6ea986405ec4" width="50" height="50"> | **JMTeng** (23.03 ~ 24.04)<br>UIKit(StoryBoard), MVVM + Coordinator, Tuist, WkWebView<br>[GitHub](https://github.com/team-JMT/JMT-iOS-repack) \| [앱스토어](https://apps.apple.com/kr/app/jmteng-%EC%9A%B0%EB%A6%AC%EB%A7%8C%EC%9D%98-%EB%A7%9B%EC%A7%91%EB%A6%AC%EC%8A%A4%ED%8A%B8/id6478379579) |
 ## **Contribution**
 
-- **Tuist Translator** (25.02 ~ 진행중)  
+- **Tuist Translator** (25.02 ~ 25.08)  
   Tuist 공식 번역팀 
   [Tuist Community](https://tuist.dev/community#translators)
   
