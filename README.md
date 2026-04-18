@@ -38,14 +38,32 @@
 -->
 
 ## **Project**
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### iOS
 | | |
 |---|---|
-| <img src="https://github.com/user-attachments/assets/986b325a-9a41-4f82-8f7b-4d33ad3b9ce2" width="50" height="50"> | **쓸래말래** (25.05 ~ 25.08)<br>SwiftUI, Clean Architecture + TMA <br>[GitHub](https://github.com/mash-up-kr/NoWeekend-iOS)  \| [앱스토어](https://apps.apple.com/kr/app/%EC%93%B8%EB%9E%98%EB%A7%90%EB%9E%98/id6746895814) |
-| <img src="https://github.com/user-attachments/assets/51af8ef2-ec8d-439a-9ac9-c6dff70e2eb0" width="50" height="50"> | **스푸니** (25.01 ~ 25.08)<br>SwiftUI, TCA. <br> [GitHub](https://github.com/hooni0918/Spoony) \| [앱스토어](https://apps.apple.com/kr/app/spoony/id6744865582) |
-| <img src="https://github.com/user-attachments/assets/0c624c1f-ff00-4ede-88e6-91b6c8a40533" width="50" height="50"> | **꾸물꿈** (24.07 ~ 25.08 )<br>UIKit(CodeBase), MVVM, RxSwift<br>[GitHub](https://github.com/hooni0918/KKUYOS) \| [앱스토어](https://apps.apple.com/kr/app/%EA%BE%B8%EB%AC%BC%EA%BF%88/id6535647152) |
+| <img src="https://github.com/user-attachments/assets/986b325a-9a41-4f82-8f7b-4d33ad3b9ce2" width="50" height="50"> | **쓸래말래** (25.05 ~ 25.08)<br>SwiftUI, Clean Architecture + TMA<br>[GitHub](https://github.com/mash-up-kr/NoWeekend-iOS) \| [앱스토어](https://apps.apple.com/kr/app/%EC%93%B8%EB%9E%98%EB%A7%90%EB%9E%98/id6746895814) |
+| <img src="https://github.com/user-attachments/assets/51af8ef2-ec8d-439a-9ac9-c6dff70e2eb0" width="50" height="50"> | **스푸니** (25.01 ~ 25.08)<br>SwiftUI, TCA<br>[GitHub](https://github.com/hooni0918/Spoony) \| [앱스토어](https://apps.apple.com/kr/app/spoony/id6744865582) |
+| <img src="https://github.com/user-attachments/assets/0c624c1f-ff00-4ede-88e6-91b6c8a40533" width="50" height="50"> | **꾸물꿈** (24.07 ~ 25.08)<br>UIKit(CodeBase), MVVM, RxSwift<br>[GitHub](https://github.com/hooni0918/KKUYOS) \| [앱스토어](https://apps.apple.com/kr/app/%EA%BE%B8%EB%AC%BC%EA%BF%88/id6535647152) |
 | <img src="https://github.com/hooni0918/hooni0918/assets/109647045/0b10a698-43db-4b9d-b83d-6ea986405ec4" width="50" height="50"> | **JMTeng** (23.03 ~ 24.04)<br>UIKit(StoryBoard), MVVM + Coordinator, Tuist, WkWebView<br>[GitHub](https://github.com/team-JMT/JMT-iOS-repack) \| [앱스토어](https://apps.apple.com/kr/app/jmteng-%EC%9A%B0%EB%A6%AC%EB%A7%8C%EC%9D%98-%EB%A7%9B%EC%A7%91%EB%A6%AC%EC%8A%A4%ED%8A%B8/id6478379579) |
-## **Contribution**
 
+</td>
+<td valign="top" width="50%">
+
+### Other
+| | |
+|---|---|
+| <img src="https://github.com/user-attachments/assets/9de459a2-79de-455f-a5af-13cd1c02778c" width="50" height="50"> | **TokenScope** <br>VS Code Extension <br> Claude Code 프로젝트별 토큰 사용량 트래킹<br>[GitHub](https://github.com/hooni0918/TokenScope) \| [마켓플레이스](https://marketplace.visualstudio.com/items?itemName=hooni.tokenscope) |
+
+</td>
+</tr>
+</table>
+
+## **Contribution**
 - **Tuist Translator** (25.02 ~ )  
   Tuist 공식 번역팀 
   [Tuist Community](https://tuist.dev/community#translators)
@@ -53,7 +71,6 @@
 - **FlexSheet** (25.01 ~ 25.02)  
   SwiftUI Flexible Sheet Library  
   [GitHub](https://github.com/hooni0918/FlexSheet)
-
 - **photoTrim** (24.11 ~ 24.12)  
   UIKit Image Crop SPM Library  
   [GitHub](https://github.com/hooni0918/photoTrim)
@@ -64,4 +81,4 @@
 - **Sopt 34, 35th iOS**  
   2024.03 - 2025.01
 
-
+\
