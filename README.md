@@ -57,7 +57,7 @@
 ### Other
 | | |
 |---|---|
-| <img src="https://github.com/user-attachments/assets/9de459a2-79de-455f-a5af-13cd1c02778c" width="50" height="50"> | **TokenScope** <br>VS Code Extension <br> Claude Code 프로젝트별 토큰 사용량 트래킹<br>[GitHub](https://github.com/hooni0918/TokenScope) \| [마켓플레이스](https://marketplace.visualstudio.com/items?itemName=hooni.tokenscope) |
+| <img src="https://github.com/user-attachments/assets/9de459a2-79de-455f-a5af-13cd1c02778c" width="50" height="50"> | **TokenScope** <br>VS Code Extension <br> AI 프로젝트별 토큰 사용량 트래킹<br>[GitHub](https://github.com/hooni0918/TokenScope) \| [마켓플레이스](https://marketplace.visualstudio.com/items?itemName=hooni.tokenscope) |
 
 </td>
 </tr>
