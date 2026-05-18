@@ -66,7 +66,7 @@
 ## **Contribution**
 
  - ouroboros <br>
-   [PR](https://github.com/Q00/ouroboros/pull/1099) <br>
+   [PR](https://github.com/Q00/ouroboros/pull/1107) <br>
     가짜 점수로 임계값을 우회하던 hack을 제거, Seed 메타데이터에 실제 ambiguity 점수가 보존되도록 수정
    
 - **Tuist Translator** (25.02 ~ )  
