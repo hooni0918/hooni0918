@@ -65,11 +65,17 @@
 
 ## **Contribution**
 
- - ouroboros <br>
-   [#PR](https://github.com/Q00/ouroboros/pull/1107) 
-    가짜 점수로 임계값을 우회하던 hack 제거, Seed 메타데이터에 실제 ambiguity 점수가 보존되도록 수정 <br>
-   [#PR](https://github.com/Q00/ouroboros/pull/1158) 
-    CLI parity로 ambiguity 게이트 우회를 명시적으로 노출
+ - ponytail <br>
+     [#PR](https://github.com/DietrichGebert/ponytail/pull/62)
+      광고만 되고 빠져 있던 `/ponytail-help` 슬래시 명령을 Claude Code·OpenCode 어댑터에 회귀
+  테스트와 함께 추가
+
+  - ouroboros <br>
+     [#PR](https://github.com/Q00/ouroboros/pull/1107)
+      가짜 점수로 임계값을 우회하던 hack 제거, Seed 메타데이터에 실제 ambiguity 점수가
+  보존되도록 수정 <br>
+     [#PR](https://github.com/Q00/ouroboros/pull/1158)
+      CLI parity로 ambiguity 게이트 우회를 명시적으로 노출
    
 - **Tuist Translator** (25.02 ~ )  
   Tuist 공식 번역팀 
