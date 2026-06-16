@@ -9,7 +9,12 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  <img src="https://render.gitanimals.org/farms/hooni0918" width="100%" height="300"/>
+
+<p align="center">
+  앱을 만들고, AI로 일하는 방식을 실험하고, 배운 것을 공유합니다.
+</p>
+
+<img src="https://render.gitanimals.org/farms/hooni0918" width="100%" height="300"/>
 <!--<img width="1200" src="https://github.com/hooni0918/hooni0918/assets/109647045/24c2ae92-a64e-4a12-bfda-5bdd3457e4de">
 -->
 <div align="center">
@@ -19,9 +24,10 @@
   <a href="https://wakatime.com/@2d44752f-7ff7-4324-b37f-91b5c35a1c70">
     <img src="https://wakatime.com/badge/user/2d44752f-7ff7-4324-b37f-91b5c35a1c70.svg" alt="wakatime">
   </a>
+
 </div>
 
-## Stack & Tools
+##  Stack & Tools
 <p>
 <img src="https://img.shields.io/badge/Swift-F05138?&style=flat-square&logo=Swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/SwiftUI-2C68B5?&style=flat-square&logo=Swift&logoColor=white"/>
@@ -63,34 +69,27 @@
 </tr>
 </table>
 
+
+## **Writing**
+
+-  **가볍게 훑어보는 LLM의 이해**  [WikiDocs](https://wikidocs.net/book/20228)
+
 ## **Contribution**
 
-  - ponytail <br>
-     [#PR](https://github.com/DietrichGebert/ponytail/pull/62)
-      Added the missing `/ponytail-help` slash command — advertised but never shipped — to the
-  Claude Code and OpenCode adapters, with a regression test
+### Open Source
+- **ponytail** <br>
+ Added the missing `/ponytail-help` slash command to the Claude Code & OpenCode adapters (with a regression test) · [#62](https://github.com/DietrichGebert/ponytail/pull/62) <br>
+- **ouroboros** <br>
+  Removed a hack that bypassed the threshold with a fake score, preserving the real ambiguity score in Seed metadata [#1107](https://github.com/Q00/ouroboros/pull/1107) <br>
+  Exposed the ambiguity-gate bypass explicitly through CLI parity · [#1158](https://github.com/Q00/ouroboros/pull/1158) <br>
 
-  - ouroboros <br>
-     [#PR](https://github.com/Q00/ouroboros/pull/1107)
-      Removed a hack that bypassed the threshold with a fake score; preserved the real
-  ambiguity score in the Seed metadata <br>
-     [#PR](https://github.com/Q00/ouroboros/pull/1158)
-      Exposed the ambiguity-gate bypass explicitly through CLI parity
+- **Tuist** — Official translation team (25.02 ~ ) · [Community](https://tuist.dev/community#translators)
 
-  - **Tuist Translator** (25.02 ~ )
-    Official Tuist translation team <br>
-    [Tuist Community](https://tuist.dev/community#translators)
-    
-- **FlexSheet** (25.01 ~ 25.02)  
-  SwiftUI Flexible Sheet Library  
-  [GitHub](https://github.com/hooni0918/FlexSheet)
-- **photoTrim** (24.11 ~ 24.12)  
-  UIKit Image Crop SPM Library  
-  [GitHub](https://github.com/hooni0918/photoTrim)
-
+### Library
+- **FlexSheet** — SwiftUI Flexible Sheet library (25.01 ~ 25.02) · [GitHub](https://github.com/hooni0918/FlexSheet)
+- **photoTrim** — UIKit Image Crop SPM library (24.11 ~ 24.12) · [GitHub](https://github.com/hooni0918/photoTrim)
 ## **Activity**
-- **Mash-Up 15th iOS**  
-  2025.02 - 진행중
+- **Mash-Up 15, 16 th  iOS**  
+  2025.02 - Now
 - **Sopt 34, 35th iOS**  
   2024.03 - 2025.01
-
