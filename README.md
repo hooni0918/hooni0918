@@ -73,6 +73,8 @@
 ## **Writing**
 
 -  **가볍게 훑어보는 LLM의 이해**  [WikiDocs](https://wikidocs.net/book/20228)
+-  **가볍게 훑어보는 RAG의 이해**  (작성중)
+-  **가볍게 훑어보는 AI Agent의 이해** (작성중)
 
 ## **Contribution**
 
